@@ -1,5 +1,4 @@
 ﻿using Asp.Versioning;
-using Cwk.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CwkSocial.Api.Controllers.V1
