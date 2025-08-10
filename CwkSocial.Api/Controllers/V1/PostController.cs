@@ -13,8 +13,8 @@ namespace CwkSocial.Api.Controllers.V1
         [Route("{id}")]
         public IActionResult GetById(int id)
         {
-            var post = new Post { Id = id, Text = "Hello, world" };
-            return Ok(post);
+            //var post = new Post { Id = id, Text = "Hello, world" };
+            return Ok();
         }
     }
 }

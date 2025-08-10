@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Cwk.Domain.Aggegates.UserProfileAggregate
+﻿namespace Cwk.Domain.Aggegates.UserProfileAggregate
 {
     public class UserProfile
     {
